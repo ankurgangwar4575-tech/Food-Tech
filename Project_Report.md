@@ -1,8 +1,8 @@
 # Project Report: AI-Driven Polymer Design for Food Packaging (MaterialAI)
 
-**Student Name:** [Senmangba Jamir]  
-**Course/Subject:** [Food Science & Technology]  
-**Reg No:** [20242044]  
+**Student Name:** Senmangba Jamir  
+**Course/Subject:** Food Science & Technology 
+**Reg No:** 20242044 
 
 ---
 
