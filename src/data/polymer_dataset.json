@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "POLY-0001",
+    "name": "PET Grade A",
+    "fullName": "PET (Polyethylene Terephthalate) - Formulated Variant 1",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 8.2,
+      "moistureBarrier": 7.3,
+      "strength": 8.8,
+      "transparency": 6.8
+    }
+  },
+  {
+    "id": "POLY-0002",
+    "name": "PET Grade B",
+    "fullName": "PET (Polyethylene Terephthalate) - Formulated Variant 2",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 8.5,
+      "moistureBarrier": 6.1,
+      "strength": 7.5,
+      "transparency": 7
+    }
+  },
+  {
+    "id": "POLY-0003",
+    "name": "PET Grade C",
+    "fullName": "PET (Polyethylene Terephthalate) - Formulated Variant 3",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 8.5,
+      "moistureBarrier": 6.7,
+      "strength": 9.1,
+      "transparency": 6.4
+    }
+  },
+  {
+    "id": "POLY-0004",
+    "name": "PET Grade D",
+    "fullName": "PET (Polyethylene Terephthalate) - Formulated Variant 4",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 8.1,
+      "moistureBarrier": 7.1,
+      "strength": 8.1,
+      "transparency": 7.5
+    }
+  },
+  {
+    "id": "POLY-0005",
+    "name": "PET Grade E",
+    "fullName": "PET (Polyethylene Terephthalate) - Formulated Variant 5",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 9.2,
+      "moistureBarrier": 5.9,
+      "strength": 7.4,
+      "transparency": 7.3
+    }
+  },
+  {
+    "id": "POLY-0006",
+    "name": "PET Grade F",
+    "fullName": "PET (Polyethylene Terephthalate) - Formulated Variant 6",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 7,
+      "moistureBarrier": 7.3,
+      "strength": 7.8,
+      "transparency": 7.7
+    }
+  },
+  {
+    "id": "POLY-0007",
+    "name": "PET Grade G",
+    "fullName": "PET (Polyethylene Terephthalate) - Formulated Variant 7",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 8.5,
+      "moistureBarrier": 5.8,
+      "strength": 8.2,
+      "transparency": 8.2
+    }
+  },
+  {
+    "id": "POLY-0008",
+    "name": "PET Grade H",
+    "fullName": "PET (Polyethylene Terephthalate) - Formulated Variant 8",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 8.9,
+      "moistureBarrier": 5.6,
+      "strength": 9.3,
+      "transparency": 7.9
+    }
+  },
+  {
+    "id": "POLY-0009",
+    "name": "HDPE Grade A",
+    "fullName": "HDPE (High-Density Polyethylene) - Formulated Variant 1",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 1.6,
+      "moistureBarrier": 9.6,
+      "strength": 8,
+      "transparency": 6.9
+    }
+  },
+  {
+    "id": "POLY-0010",
+    "name": "HDPE Grade B",
+    "fullName": "HDPE (High-Density Polyethylene) - Formulated Variant 2",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 2.3,
+      "moistureBarrier": 8.8,
+      "strength": 7.4,
+      "transparency": 5.8
+    }
+  },
+  {
+    "id": "POLY-0011",
+    "name": "HDPE Grade C",
+    "fullName": "HDPE (High-Density Polyethylene) - Formulated Variant 3",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 4.1,
+      "moistureBarrier": 8.6,
+      "strength": 7,
+      "transparency": 7.3
+    }
+  },
+  {
+    "id": "POLY-0012",
+    "name": "HDPE Grade D",
+    "fullName": "HDPE (High-Density Polyethylene) - Formulated Variant 4",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 2.8,
+      "moistureBarrier": 7.7,
+      "strength": 5.9,
+      "transparency": 6.5
+    }
+  },
+  {
+    "id": "POLY-0013",
+    "name": "HDPE Grade E",
+    "fullName": "HDPE (High-Density Polyethylene) - Formulated Variant 5",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 2.2,
+      "moistureBarrier": 7.7,
+      "strength": 7.1,
+      "transparency": 7.4
+    }
+  },
+  {
+    "id": "POLY-0014",
+    "name": "HDPE Grade F",
+    "fullName": "HDPE (High-Density Polyethylene) - Formulated Variant 6",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 1.9,
+      "moistureBarrier": 9.7,
+      "strength": 6.7,
+      "transparency": 7.2
+    }
+  },
+  {
+    "id": "POLY-0015",
+    "name": "HDPE Grade G",
+    "fullName": "HDPE (High-Density Polyethylene) - Formulated Variant 7",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 3.2,
+      "moistureBarrier": 9.4,
+      "strength": 6.1,
+      "transparency": 6.6
+    }
+  },
+  {
+    "id": "POLY-0016",
+    "name": "HDPE Grade H",
+    "fullName": "HDPE (High-Density Polyethylene) - Formulated Variant 8",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 2.5,
+      "moistureBarrier": 9.1,
+      "strength": 6.5,
+      "transparency": 7.5
+    }
+  },
+  {
+    "id": "POLY-0017",
+    "name": "LDPE Grade A",
+    "fullName": "LDPE (Low-Density Polyethylene) - Formulated Variant 1",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 1,
+      "moistureBarrier": 8.6,
+      "strength": 2.5,
+      "transparency": 5
+    }
+  },
+  {
+    "id": "POLY-0018",
+    "name": "LDPE Grade B",
+    "fullName": "LDPE (Low-Density Polyethylene) - Formulated Variant 2",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 1,
+      "moistureBarrier": 7.7,
+      "strength": 3.6,
+      "transparency": 4.2
+    }
+  },
+  {
+    "id": "POLY-0019",
+    "name": "LDPE Grade C",
+    "fullName": "LDPE (Low-Density Polyethylene) - Formulated Variant 3",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 1,
+      "moistureBarrier": 7.5,
+      "strength": 4.1,
+      "transparency": 4.2
+    }
+  },
+  {
+    "id": "POLY-0020",
+    "name": "LDPE Grade D",
+    "fullName": "LDPE (Low-Density Polyethylene) - Formulated Variant 4",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 1,
+      "moistureBarrier": 7.7,
+      "strength": 5.2,
+      "transparency": 4
+    }
+  },
+  {
+    "id": "POLY-0021",
+    "name": "LDPE Grade E",
+    "fullName": "LDPE (Low-Density Polyethylene) - Formulated Variant 5",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 1.1,
+      "moistureBarrier": 9.4,
+      "strength": 4,
+      "transparency": 4.6
+    }
+  },
+  {
+    "id": "POLY-0022",
+    "name": "LDPE Grade F",
+    "fullName": "LDPE (Low-Density Polyethylene) - Formulated Variant 6",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 3.1,
+      "moistureBarrier": 8.9,
+      "strength": 5.2,
+      "transparency": 4.3
+    }
+  },
+  {
+    "id": "POLY-0023",
+    "name": "LDPE Grade G",
+    "fullName": "LDPE (Low-Density Polyethylene) - Formulated Variant 7",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 1.6,
+      "moistureBarrier": 7.3,
+      "strength": 4.8,
+      "transparency": 4.3
+    }
+  },
+  {
+    "id": "POLY-0024",
+    "name": "LDPE Grade H",
+    "fullName": "LDPE (Low-Density Polyethylene) - Formulated Variant 8",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 2.4,
+      "moistureBarrier": 7.6,
+      "strength": 5.1,
+      "transparency": 3.4
+    }
+  },
+  {
+    "id": "POLY-0025",
+    "name": "EVOH Grade A",
+    "fullName": "EVOH (Ethylene Vinyl Alcohol) - Formulated Variant 1",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 9.3,
+      "moistureBarrier": 3.5,
+      "strength": 6.1,
+      "transparency": 4.5
+    }
+  },
+  {
+    "id": "POLY-0026",
+    "name": "EVOH Grade B",
+    "fullName": "EVOH (Ethylene Vinyl Alcohol) - Formulated Variant 2",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 10,
+      "moistureBarrier": 2.8,
+      "strength": 5.2,
+      "transparency": 4.7
+    }
+  },
+  {
+    "id": "POLY-0027",
+    "name": "EVOH Grade C",
+    "fullName": "EVOH (Ethylene Vinyl Alcohol) - Formulated Variant 3",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 9.2,
+      "moistureBarrier": 1,
+      "strength": 5.4,
+      "transparency": 5.3
+    }
+  },
+  {
+    "id": "POLY-0028",
+    "name": "EVOH Grade D",
+    "fullName": "EVOH (Ethylene Vinyl Alcohol) - Formulated Variant 4",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 10,
+      "moistureBarrier": 1,
+      "strength": 5.2,
+      "transparency": 6
+    }
+  },
+  {
+    "id": "POLY-0029",
+    "name": "EVOH Grade E",
+    "fullName": "EVOH (Ethylene Vinyl Alcohol) - Formulated Variant 5",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 8.6,
+      "moistureBarrier": 2.6,
+      "strength": 5.8,
+      "transparency": 5.7
+    }
+  },
+  {
+    "id": "POLY-0030",
+    "name": "EVOH Grade F",
+    "fullName": "EVOH (Ethylene Vinyl Alcohol) - Formulated Variant 6",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 9.2,
+      "moistureBarrier": 1,
+      "strength": 6.2,
+      "transparency": 4.3
+    }
+  },
+  {
+    "id": "POLY-0031",
+    "name": "EVOH Grade G",
+    "fullName": "EVOH (Ethylene Vinyl Alcohol) - Formulated Variant 7",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 10,
+      "moistureBarrier": 1,
+      "strength": 5,
+      "transparency": 5.2
+    }
+  },
+  {
+    "id": "POLY-0032",
+    "name": "EVOH Grade H",
+    "fullName": "EVOH (Ethylene Vinyl Alcohol) - Formulated Variant 8",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 10,
+      "moistureBarrier": 1,
+      "strength": 3.9,
+      "transparency": 4.1
+    }
+  },
+  {
+    "id": "POLY-0033",
+    "name": "PLA Grade A",
+    "fullName": "PLA (Polylactic Acid) - Formulated Variant 1",
+    "primaryUse": "Eco-friendly compostables",
+    "recycling": "Compostable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 6.8,
+      "moistureBarrier": 3.8,
+      "strength": 5.3,
+      "transparency": 6.1
+    }
+  },
+  {
+    "id": "POLY-0034",
+    "name": "PLA Grade B",
+    "fullName": "PLA (Polylactic Acid) - Formulated Variant 2",
+    "primaryUse": "Eco-friendly compostables",
+    "recycling": "Compostable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 7.1,
+      "moistureBarrier": 5.4,
+      "strength": 6,
+      "transparency": 5.3
+    }
+  },
+  {
+    "id": "POLY-0035",
+    "name": "PLA Grade C",
+    "fullName": "PLA (Polylactic Acid) - Formulated Variant 3",
+    "primaryUse": "Eco-friendly compostables",
+    "recycling": "Compostable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 6.5,
+      "moistureBarrier": 2.6,
+      "strength": 7.3,
+      "transparency": 5.8
+    }
+  },
+  {
+    "id": "POLY-0036",
+    "name": "PLA Grade D",
+    "fullName": "PLA (Polylactic Acid) - Formulated Variant 4",
+    "primaryUse": "Eco-friendly compostables",
+    "recycling": "Compostable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 7.4,
+      "moistureBarrier": 4,
+      "strength": 6.5,
+      "transparency": 6.1
+    }
+  },
+  {
+    "id": "POLY-0037",
+    "name": "PLA Grade E",
+    "fullName": "PLA (Polylactic Acid) - Formulated Variant 5",
+    "primaryUse": "Eco-friendly compostables",
+    "recycling": "Compostable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 6.3,
+      "moistureBarrier": 2.6,
+      "strength": 4.8,
+      "transparency": 5.5
+    }
+  },
+  {
+    "id": "POLY-0038",
+    "name": "PLA Grade F",
+    "fullName": "PLA (Polylactic Acid) - Formulated Variant 6",
+    "primaryUse": "Eco-friendly compostables",
+    "recycling": "Compostable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 7.1,
+      "moistureBarrier": 5.1,
+      "strength": 5.6,
+      "transparency": 5.1
+    }
+  },
+  {
+    "id": "POLY-0039",
+    "name": "PLA Grade G",
+    "fullName": "PLA (Polylactic Acid) - Formulated Variant 7",
+    "primaryUse": "Eco-friendly compostables",
+    "recycling": "Compostable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 4.5,
+      "moistureBarrier": 5.4,
+      "strength": 5.5,
+      "transparency": 5
+    }
+  },
+  {
+    "id": "POLY-0040",
+    "name": "PLA Grade H",
+    "fullName": "PLA (Polylactic Acid) - Formulated Variant 8",
+    "primaryUse": "Eco-friendly compostables",
+    "recycling": "Compostable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 6.8,
+      "moistureBarrier": 2.9,
+      "strength": 4.9,
+      "transparency": 5.9
+    }
+  },
+  {
+    "id": "POLY-0041",
+    "name": "Nylon Grade A",
+    "fullName": "Nylon (Polyamide) - Formulated Variant 1",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 7.7,
+      "moistureBarrier": 6.2,
+      "strength": 8,
+      "transparency": 7.6
+    }
+  },
+  {
+    "id": "POLY-0042",
+    "name": "Nylon Grade B",
+    "fullName": "Nylon (Polyamide) - Formulated Variant 2",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 6.8,
+      "moistureBarrier": 4.1,
+      "strength": 8.9,
+      "transparency": 8.8
+    }
+  },
+  {
+    "id": "POLY-0043",
+    "name": "Nylon Grade C",
+    "fullName": "Nylon (Polyamide) - Formulated Variant 3",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 6.6,
+      "moistureBarrier": 6,
+      "strength": 9.6,
+      "transparency": 8.8
+    }
+  },
+  {
+    "id": "POLY-0044",
+    "name": "Nylon Grade D",
+    "fullName": "Nylon (Polyamide) - Formulated Variant 4",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 6.7,
+      "moistureBarrier": 6.1,
+      "strength": 9,
+      "transparency": 7.4
+    }
+  },
+  {
+    "id": "POLY-0045",
+    "name": "Nylon Grade E",
+    "fullName": "Nylon (Polyamide) - Formulated Variant 5",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 8.3,
+      "moistureBarrier": 4.2,
+      "strength": 8.3,
+      "transparency": 8.5
+    }
+  },
+  {
+    "id": "POLY-0046",
+    "name": "Nylon Grade F",
+    "fullName": "Nylon (Polyamide) - Formulated Variant 6",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 7.8,
+      "moistureBarrier": 4.8,
+      "strength": 9.9,
+      "transparency": 9
+    }
+  },
+  {
+    "id": "POLY-0047",
+    "name": "Nylon Grade G",
+    "fullName": "Nylon (Polyamide) - Formulated Variant 7",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 5.9,
+      "moistureBarrier": 6.4,
+      "strength": 10,
+      "transparency": 8.2
+    }
+  },
+  {
+    "id": "POLY-0048",
+    "name": "Nylon Grade H",
+    "fullName": "Nylon (Polyamide) - Formulated Variant 8",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 7,
+      "moistureBarrier": 4.2,
+      "strength": 9.1,
+      "transparency": 9.1
+    }
+  },
+  {
+    "id": "POLY-0049",
+    "name": "PVDC Grade A",
+    "fullName": "PVDC (Polyvinylidene Chloride) - Formulated Variant 1",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 10,
+      "moistureBarrier": 9,
+      "strength": 5,
+      "transparency": 5
+    }
+  },
+  {
+    "id": "POLY-0050",
+    "name": "PVDC Grade B",
+    "fullName": "PVDC (Polyvinylidene Chloride) - Formulated Variant 2",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 9.1,
+      "moistureBarrier": 9.1,
+      "strength": 5.5,
+      "transparency": 5
+    }
+  },
+  {
+    "id": "POLY-0051",
+    "name": "PVDC Grade C",
+    "fullName": "PVDC (Polyvinylidene Chloride) - Formulated Variant 3",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 9.9,
+      "moistureBarrier": 8.3,
+      "strength": 7,
+      "transparency": 6
+    }
+  },
+  {
+    "id": "POLY-0052",
+    "name": "PVDC Grade D",
+    "fullName": "PVDC (Polyvinylidene Chloride) - Formulated Variant 4",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 9.2,
+      "moistureBarrier": 8,
+      "strength": 7.4,
+      "transparency": 6.5
+    }
+  },
+  {
+    "id": "POLY-0053",
+    "name": "PVDC Grade E",
+    "fullName": "PVDC (Polyvinylidene Chloride) - Formulated Variant 5",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 10,
+      "moistureBarrier": 9.8,
+      "strength": 5.1,
+      "transparency": 5.4
+    }
+  },
+  {
+    "id": "POLY-0054",
+    "name": "PVDC Grade F",
+    "fullName": "PVDC (Polyvinylidene Chloride) - Formulated Variant 6",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 10,
+      "moistureBarrier": 8.5,
+      "strength": 6.8,
+      "transparency": 5.6
+    }
+  },
+  {
+    "id": "POLY-0055",
+    "name": "PVDC Grade G",
+    "fullName": "PVDC (Polyvinylidene Chloride) - Formulated Variant 7",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 9.6,
+      "moistureBarrier": 8.4,
+      "strength": 6.2,
+      "transparency": 5.8
+    }
+  },
+  {
+    "id": "POLY-0056",
+    "name": "PVDC Grade H",
+    "fullName": "PVDC (Polyvinylidene Chloride) - Formulated Variant 8",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 10,
+      "moistureBarrier": 9.6,
+      "strength": 5.3,
+      "transparency": 6.4
+    }
+  },
+  {
+    "id": "POLY-0057",
+    "name": "PP Grade A",
+    "fullName": "PP (Polypropylene) - Formulated Variant 1",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 1.7,
+      "moistureBarrier": 9.1,
+      "strength": 7,
+      "transparency": 6.8
+    }
+  },
+  {
+    "id": "POLY-0058",
+    "name": "PP Grade B",
+    "fullName": "PP (Polypropylene) - Formulated Variant 2",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 3.3,
+      "moistureBarrier": 6.8,
+      "strength": 5.2,
+      "transparency": 6.2
+    }
+  },
+  {
+    "id": "POLY-0059",
+    "name": "PP Grade C",
+    "fullName": "PP (Polypropylene) - Formulated Variant 3",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 1.9,
+      "moistureBarrier": 7.7,
+      "strength": 4.8,
+      "transparency": 6.3
+    }
+  },
+  {
+    "id": "POLY-0060",
+    "name": "PP Grade D",
+    "fullName": "PP (Polypropylene) - Formulated Variant 4",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 3.3,
+      "moistureBarrier": 8.2,
+      "strength": 4.7,
+      "transparency": 5.4
+    }
+  },
+  {
+    "id": "POLY-0061",
+    "name": "PP Grade E",
+    "fullName": "PP (Polypropylene) - Formulated Variant 5",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 2.2,
+      "moistureBarrier": 9.1,
+      "strength": 6.3,
+      "transparency": 5.2
+    }
+  },
+  {
+    "id": "POLY-0062",
+    "name": "PP Grade F",
+    "fullName": "PP (Polypropylene) - Formulated Variant 6",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 4.2,
+      "moistureBarrier": 9,
+      "strength": 5.7,
+      "transparency": 5.5
+    }
+  },
+  {
+    "id": "POLY-0063",
+    "name": "PP Grade G",
+    "fullName": "PP (Polypropylene) - Formulated Variant 7",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 3.5,
+      "moistureBarrier": 9.4,
+      "strength": 5.3,
+      "transparency": 5.7
+    }
+  },
+  {
+    "id": "POLY-0064",
+    "name": "PP Grade H",
+    "fullName": "PP (Polypropylene) - Formulated Variant 8",
+    "primaryUse": "Industrial / Food Packaging",
+    "recycling": "Widely Recyclable",
+    "evidence": {
+      "source": "Global Materials DB",
+      "level": "Verified (ISO)"
+    },
+    "scores": {
+      "oxygenBarrier": 1.8,
+      "moistureBarrier": 6.8,
+      "strength": 6.7,
+      "transparency": 6.1
+    }
+  }
+]

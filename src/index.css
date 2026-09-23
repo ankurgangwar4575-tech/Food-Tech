@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-brand-slate-900 text-brand-slate-50 font-sans antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading font-bold text-brand-slate-50;
+  }
+}
+
+@layer components {
+  /* Custom Range Slider */
+  input[type=range] {
+    @apply appearance-none w-full bg-transparent;
+  }
+  input[type=range]::-webkit-slider-thumb {
+    @apply appearance-none h-4 w-4 rounded-full bg-brand-indigo-400 cursor-pointer -mt-[6px];
+  }
+  input[type=range]::-webkit-slider-runnable-track {
+    @apply w-full h-1 cursor-pointer bg-brand-slate-700 rounded-sm;
+  }
+  input[type=range]:focus {
+    @apply outline-none;
+  }
+}
