@@ -16,16 +16,13 @@ function App() {
   const [dataset, setDataset] = useState([]);
 
   useEffect(() => {
-    // Load the full dataset (simulating a database fetch)
     const fullDataset = getFullDataset();
     setDataset(fullDataset);
   }, []);
 
-  // Auto-generate recommendations using KNN when priorities change
   useEffect(() => {
     if (dataset.length === 0) return;
     
-    // The ML engine returns the K nearest neighbors
     const kNearestNeighbors = runKNNPrediction(priorities);
     setResults(kNearestNeighbors);
   }, [priorities, dataset]);

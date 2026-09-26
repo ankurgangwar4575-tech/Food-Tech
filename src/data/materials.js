@@ -1,4 +1,3 @@
-// Data for the PolymerIQ mock engine
 
 export const materialsDatabase = [
   {
@@ -7,9 +6,9 @@ export const materialsDatabase = [
     fullName: 'High-density polyethylene',
     primaryUse: 'Milk bottles • caps',
     scores: {
-      oxygenBarrier: 2,   // Low
-      moistureBarrier: 9, // Very high
-      strength: 6         // Medium
+      oxygenBarrier: 2,   
+      moistureBarrier: 9, 
+      strength: 6         
     },
     recycling: 'Widely recycled',
     evidence: {
@@ -24,9 +23,9 @@ export const materialsDatabase = [
     fullName: 'Polypropylene',
     primaryUse: 'Tubs • films • caps',
     scores: {
-      oxygenBarrier: 2,   // Low
-      moistureBarrier: 9, // Very high
-      strength: 7         // Medium-high
+      oxygenBarrier: 2,   
+      moistureBarrier: 9, 
+      strength: 7         
     },
     recycling: 'Recyclable',
     evidence: {
@@ -41,9 +40,9 @@ export const materialsDatabase = [
     fullName: 'Polyethylene terephthalate',
     primaryUse: 'Bottles • trays',
     scores: {
-      oxygenBarrier: 7,   // High
-      moistureBarrier: 7, // High
-      strength: 8         // High
+      oxygenBarrier: 7,   
+      moistureBarrier: 7, 
+      strength: 8         
     },
     recycling: 'Widely recycled',
     evidence: {
@@ -58,9 +57,9 @@ export const materialsDatabase = [
     fullName: 'Ethylene vinyl alcohol',
     primaryUse: 'Barrier layer • laminate',
     scores: {
-      oxygenBarrier: 10,  // Very high
-      moistureBarrier: 2, // Low
-      strength: 5         // Medium
+      oxygenBarrier: 10, 
+      moistureBarrier: 2, 
+      strength: 5         
     },
     recycling: 'Multilayer dependent',
     evidence: {

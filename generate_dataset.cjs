@@ -15,7 +15,6 @@ const datasets = [];
 let id = 1;
 
 basePolymers.forEach(base => {
-  // Generate 8 variations of each polymer base with slightly different grades/additives
   for (let i = 0; i < 8; i++) {
     const o2Mod = (Math.random() * 3) - 1.5;
     const moistMod = (Math.random() * 3) - 1.5;
